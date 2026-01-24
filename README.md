@@ -1,58 +1,52 @@
-# 👋 Hi, I'm Mark!
+# 👋 Привет! Я Марк — Специалист по автоматизации бизнес-процессов
 
-## 👨‍💻 About Me
-Backend developer and system administrator focused on Python/Django. Continuously growing in new technologies and learning both programming and human languages! 🚀
+![Banner](https://via.placeholder.com/1200x300/0F172A/FFFFFF?text=Automation+Architect+%7C+Low-Code+Developer+%7C+Integration+Specialist)
+*Создаю рабочие бизнес-процессы за дни, а не недели*
 
-🌐 [My Website](https://solarezz.dev)
+## 🚀 Обо мне
 
-## 🛠 Tech Stack
+**Не разработчик в классическом смысле, а конструктор решений.** Соединяю SaaS-инструменты в эффективные бизнес-процессы с минимальным использованием кода. Моя специализация — быстрая автоматизация рутинных операций через визуальные конструкторы с точечным применением программирования.
 
-### 💻 Programming Languages & Technologies
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+**Ключевая ценность:** Понимаю бизнес-логику (через Monday.com и аналоги) и могу её технически реализовать (через Make/n8n/Zapier + Python).
 
-### 🔧 DevOps & Administration
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+## 🛠️ Технологический стек
 
-### 🗃 Databases
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+### 🔌 **Интеграционные платформы (Core)**
+![Make](https://img.shields.io/badge/Make-85%25-FF4F64?style=for-the-badge&logo=integromat&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-40%25-FF6B6B?style=for-the-badge&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-40%25-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+![Retool](https://img.shields.io/badge/Retool-40%25-3766F9?style=for-the-badge&logo=retool&logoColor=white)
 
-### 🌍 Languages
-- Russian (Native)
-- English (Learning)
-- German (Learning)
+### 💻 **Программирование & Базы данных**
+![Python](https://img.shields.io/badge/Python-60%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-40%25-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-45%25-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-70%25-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-## 🎯 Core Skills
-- ⚡ Web application development with Django
-- 🖥 Linux server deployment
-- 🌐 Web server configuration (Nginx)
-- 🔄 API development and integration
-- 🎮 Game development with Unity
+### 🔗 **API & Инструменты**
+![Webhooks](https://img.shields.io/badge/Webhooks-90%25-00C7B7?style=for-the-badge&logo=webhooks&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-50%25-FF6C37?style=for-the-badge&logo=rest&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-30%25-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-60%25-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📫 How to Reach Me
-- 🌐 Website: [solarezz.dev](https://solarezz.dev)
-- 📧 Email: [marksolarezz@gmail.com](mailto:marksolarezz@gmail.com)
-- 💬 Telegram: [@solarezzov](https://t.me/solarezzov)
+### 🎯 **Экосистемы (интеграции)**
+![Monday.com](https://img.shields.io/badge/Monday.com-75%25-F82B60?style=for-the-badge&logo=monday&logoColor=white)
+![Telegram API](https://img.shields.io/badge/Telegram_API-90%25-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![Slack API](https://img.shields.io/badge/Slack_API-30%25-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
-## 📊 GitHub Stats
+### 🐳 **Инфраструктура**
+![Docker](https://img.shields.io/badge/Docker-40%25-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-30%25-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-30%25-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=solarezz&show_icons=true&theme=tokyonight)
+## 📊 Моя философия автоматизации
 
-## 🏆 GitHub Achievements
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=solarezz&theme=tokyonight)
-
-## 💻 Most Used Languages
-
-![Top Langs](https://grs.yakovsava.dev/top-langs/?username=solarezz&layout=compact&theme=tokyonight)
-
----
-⭐️ From [solarezz](https://github.com/solarezz)
+```mermaid
+graph LR
+    A[Бизнес-задача] --> B{Анализ процесса}
+    B --> C[Выбор инструмента]
+    C --> D[Make/n8n для 80% логики]
+    D --> E[Python для сложных операций]
+    E --> F[Интеграция через API]
+    F --> G[Готовый бизнес-процесс]
+    G --> H[Документация и передача]
